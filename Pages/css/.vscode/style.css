@@ -31,7 +31,7 @@ li{font-style: italic; font-size: larger;color: rgb(47, 174, 206);}
 #Paragraph2 {color: rgb(216, 87, 104); font-size: larger;}
 #Paragraph3 {color: rgb(71, 226, 231); font-size: larger;}
 span{color: rgb(37, 156, 160); font-size: 60; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-#div1{background-color: rgb(219, 41, 139);}
+#div1{background-color: rgb(212, 86, 2);}
 #div2{background-color: rgb(14, 8, 0);}
 form{background-color: rgb(219, 41, 139); padding:20; font-size: larger; font-style: inherit; color: black;}
 input[type="button"]:hover{border: 0in; background-color: brown;}
